@@ -40,7 +40,7 @@
     "lint-staged": "^8.1.5",
     "node-sass": "^4.13.1",
     "ramda": "^0.27.0",
-    "release-it": "^13.5.4",
+    "release-it": "^13.7.2",
     "sass-loader": "^8.0.2",
     "vue-cli-plugin-quasar": "^2.0.0",
     "vue-good-table": "^2.18.0",
